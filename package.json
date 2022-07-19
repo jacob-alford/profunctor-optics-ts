@@ -1,5 +1,5 @@
 {
-  "name": "@jacob-alford/profunctor-ts-optics",
+  "name": "@jacob-alford/profunctor-optics-ts",
   "version": "1.0.0",
   "description": "fp-ts style profunctor optics in TypeScript",
   "homepage": "https://jacob-alford.github.io/profunctor-optics-ts/",
